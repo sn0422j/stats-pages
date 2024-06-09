@@ -1,0 +1,5 @@
+{
+  "name": "${localWorkspaceFolderBasename}",
+  "context": ".",
+  "dockerFile": "Dockerfile"
+}
